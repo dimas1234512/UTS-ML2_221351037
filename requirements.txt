@@ -4,3 +4,4 @@ seaborn==0.13.2
 scikit-learn==1.6.1
 streamlit==1.42.2
 matplotlib==3.10.1
+tensorflow==2.18.0
